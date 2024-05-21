@@ -1,0 +1,17 @@
+🚀 **Introducing my latest Python project: The Tip Calculator!** 💸
+
+The goal of this project is to create a user-friendly tool that quickly computes tips based on the bill amount, desired tip percentage, and the number of people splitting the bill.
+
+Concepts Used:
+1. Input Handling: The program prompts the user for input (bill amount, tip percentage, and number of people).
+2. Mathematical Calculations: It performs calculations to determine the total tip amount and the bill per person.
+3. Rounding: The final bill per person is rounded to two decimal places.
+
+Features:
+- Efficiency: No more manual tip calculations—let the calculator handle it!
+- Precision: Accurate results with rounded amounts.
+- User-Friendly: Simple prompts make it accessible to everyone.
+
+Output Example:
+Suppose the bill was $150.00, split between 5 people, with a 12% tip:
+- Each person should pay: **$33.60**
